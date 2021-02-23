@@ -4,3 +4,4 @@ tensorflow>=1.2
 matplotlib>=3.3
 scikit-learn>=0.24
 mitosheet>=0.1
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
