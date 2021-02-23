@@ -1,5 +1,5 @@
 numpy==1.14.5
-mito>=0.1
+mito>=0.0.1
 pandas>=1.2
 tensorflow>=1.2
 matplotlib>=3.3
